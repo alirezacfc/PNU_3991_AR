@@ -44,12 +44,4 @@ https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-a
     <th>یک شنبه</th>
   </tr>
    <tr>
-   <th ></th>   
-    <th>دوشنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-    <th ></th>
+  
